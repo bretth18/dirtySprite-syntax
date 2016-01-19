@@ -1,0 +1,15 @@
+{
+	"name": "dirtySprite-syntax",
+	"version": "0.0.1",
+	"description": "dirtySprite for your dirty code",
+	"keywords": [
+		"syntax",
+		"theme"
+	],
+	"license": "MIT",
+	"repository": {},
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"theme": "syntax"
+}
