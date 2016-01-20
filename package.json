@@ -1,17 +1,17 @@
 {
-	"name": "dirtySprite-syntax",
-	"version": "0.0.1",
-	"description": "dirtySprite for your dirty code",
-	"keywords": [
-		"syntax",
-		"theme"
-	],
-	"license": "MIT",
-	"repository": {
-		"url": "https://github.com/bretth18/dirtySprite-syntax"
-	},
-	"engines": {
-		"atom": ">=1.0.0 <2.0.0"
-	},
-	"theme": "syntax"
+  "name": "dirtySprite-syntax",
+  "version": "0.1.0",
+  "description": "dirtySprite for your dirty code",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/bretth18/dirtySprite-syntax"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "theme": "syntax"
 }
