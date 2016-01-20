@@ -7,7 +7,9 @@
 		"theme"
 	],
 	"license": "MIT",
-	"repository": {},
+	"repository": {
+		"url": "https://github.com/bretth18/dirtySprite-syntax"
+	},
 	"engines": {
 		"atom": ">=1.0.0 <2.0.0"
 	},
