@@ -1,5 +1,6 @@
 # dirtySprite syntax
  -color syntax for Atom text editor for real trap thugs sippin on lean
+ 
 # info
 - this is the worst atom syntax available.
 - https://atom.io/themes/dirtysprite-syntax
